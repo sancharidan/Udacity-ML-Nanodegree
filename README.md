@@ -4,7 +4,7 @@ This repository contains the project submissions as part of the Udacity Machine 
 
 ### Install
 
-This project requires **Python** and the following Python libraries installed:
+The projects here require **Python** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
