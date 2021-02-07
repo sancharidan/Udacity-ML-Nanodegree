@@ -13,6 +13,3 @@ The projects here require **Python** and the following Python libraries installe
 
 
 Also needed is to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
-
-If Python is installed yet, it is highly recommended to install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
-
